@@ -1,0 +1,35 @@
+Metadata-Version: 1.1
+Name: imio.ATContentTypes.link
+Version: 0.1
+Summary: Extended archetype link with target field.
+Home-page: http://pypi.python.org/pypi/imio.ATContentTypes.link
+Author: boulch
+Author-email: christophe.boulanger@imio.be
+License: GPL
+Description: ==========================================================================
+        imio.ATContentTypes.link
+        ==========================================================================
+        
+        Contributors
+        ============
+        
+        - boulch, christophe.boulanger@imio.be
+        Changelog
+        =========
+        
+        
+        0.1 (unreleased)
+        ----------------
+        
+        - Initial release.
+          [boulch]
+        
+        
+        
+Keywords: extended,link,archetype,imio,plone,target
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Framework :: Plone
+Classifier: Framework :: Plone :: 4.3
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7

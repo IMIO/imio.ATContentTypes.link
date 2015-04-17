@@ -45,6 +45,7 @@ setup(
         'plone.api',
         'setuptools',
         'archetypes.schemaextender',
+        'z3c.jbot',
     ],
     extras_require={
         'test': [

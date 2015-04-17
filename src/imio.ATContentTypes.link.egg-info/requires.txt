@@ -1,0 +1,10 @@
+five.grok
+plone.api
+setuptools
+archetypes.schemaextender
+z3c.jbot
+
+[test]
+ecreall.helpers.testing
+plone.app.testing
+plone.app.robotframework

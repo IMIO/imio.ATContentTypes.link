@@ -28,7 +28,7 @@ class LinkTargetExtender(object):
 
     fields = [
         _ExtensionBooleanField(
-            "LinkTargetChoice",
+            name="openInNewTab",
             widget=BooleanField._properties['widget'](
                 label=u"Open in a new tab (true/false)",
                 description=u"Open link in a new tab (true/false)",
