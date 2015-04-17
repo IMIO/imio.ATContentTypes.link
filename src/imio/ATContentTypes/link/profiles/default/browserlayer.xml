@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<layers>
+  <layer
+    name="imio.ATContentTypes.link"
+    interface="imio.ATContentTypes.link.interfaces.IImioAtcontenttypesLinkLayer"
+  />
+</layers>
